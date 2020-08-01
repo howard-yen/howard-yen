@@ -1,8 +1,15 @@
 ### Hi there 👋
 
+
+I'm Howard Yen, a sophomore studying Computer Science at Princeton University. 
+
+Here's a little bit about me: 
+- I’m currently interning at [Map My Customers](https://mapmycustomers.me/). 
+- I’m currently learning PostgreSQL and I'm planning on learning JavaScript soon. 
+- I'm currently working on a MangaDex scrapper to automatically send chapters to Kindle as pdf (can't make it public but message me if you want to talk about it!)
+
 <!--
 **howard-yen/howard-yen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

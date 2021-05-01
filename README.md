@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 
-I'm Howard Yen, a sophomore studying Computer Science at Princeton University. 
+I'm Howard Yen, a 2nd year student studying Computer Science at Princeton University. 
 
 Here's a little bit about me: 
-- I’m currently in the middle of my sophomore where I'm taking classes in Operating Systems, Fucntional Programming, and Computer Vision.
-- I’m currently learning JavaScript and React JS, but also improving my C++ skills through practice on leetcode. 
+- I’m currently classes in Natural Language Processing, Advanced Programming Techniques, Economics and Computing, and Probability and Stochastic Systems.
+- I’m currently learning JavaScript and React JS, but also improving my C++ skills through leetcode. 
 - I'm currently working on making my own [website](https://howard-yen.github.io/)!
 
 <!--

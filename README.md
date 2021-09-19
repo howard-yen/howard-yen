@@ -1,12 +1,12 @@
 ### Hi there 👋
 
 
-I'm Howard Yen, a 2nd year student studying Computer Science at Princeton University. 
+I'm Howard Yen, a 3rd year student studying Computer Science at Princeton University. 
 
 Here's a little bit about me: 
-- I’m currently classes in Natural Language Processing, Advanced Programming Techniques, Economics and Computing, and Probability and Stochastic Systems.
-- I’m currently learning JavaScript and React JS, but also improving my C++ skills through leetcode. 
-- I'm currently working on making my own [website](https://howard-yen.github.io/)!
+- I’m currently taking the classes: Embodied Language Understanding and Advanced Computer Vision.
+- I'm currently part of the Princeton NLP Group, advised by Danqi Chen and Jinhyuk Lee, where I'm working on a project related to Open-Domain Question Answering.
+- Feel free to visite my [website](https://howard-yen.github.io/), where you can find a copy of my resume!
 
 <!--
 **howard-yen/howard-yen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

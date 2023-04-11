@@ -1,11 +1,12 @@
 ### Hi there 👋
 
 
-I'm Howard Yen, a 3rd year student studying Computer Science at Princeton University. 
+I'm Howard Yen, a senior studying Computer Science at Princeton University. 
 
 Here's a little bit about me: 
-- I’m currently taking the classes: Embodied Language Understanding and Advanced Computer Vision.
-- I'm currently part of the Princeton NLP Group, advised by Danqi Chen and Jinhyuk Lee, where I'm working on a project related to Open-Domain Question Answering.
+- I’m currently taking the classes: Systems and Machine Learning, Neural Networks: Theory and Applications.
+- I'm currently part of the Princeton NLP Group, advised by Danqi Chen and mentored by Tianyu Gao, and I'm working on a project on attributed LLMs. 
+- I'm also currently writing my undergraduate thesis on open-domain question answering.
 - Feel free to visite my [website](https://howard-yen.github.io/), where you can find a copy of my resume!
 
 <!--

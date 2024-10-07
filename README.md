@@ -1,12 +1,11 @@
 ### Hi there 👋
 
-
-I'm Howard, a Masters student in Computer Science at Princeton University. 
+I'm Howard, a PhD student in Computer Science at Princeton University. 
 
 Here's a little bit about me: 
-- I'm currently part of the Princeton NLP Group, advised by Danqi Chen.
-- I'm currently working on a project that augments existing language models with additional contexts. Email me if you are interested!
-- Feel free to visite my [website](https://howard-yen.github.io/), where you can find a copy of my resume!
+- I'm part of the Princeton NLP Group and Princeton Language and Intelligence, advised by Danqi Chen.
+- I work on work long-context language modeling and retrieval for reasoning. 
+- Feel free to visit my [website](https://howard-yen.github.io/), where you can find a copy of my CV!
 
 <!--
 **howard-yen/howard-yen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

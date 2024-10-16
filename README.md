@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I'm Howard, a PhD student in Computer Science at Princeton University. 
+I'm Howard, a PhD student in Computer Science at Princeton University.
 
 Here's a little bit about me: 
-- I'm part of the Princeton NLP Group and Princeton Language and Intelligence, advised by Danqi Chen.
-- I work on work long-context language modeling and retrieval for reasoning. 
+- I'm part of the Princeton NLP Group and Princeton Language and Intelligence (PLI), advised by Danqi Chen.
+- I currently work on long-context language modeling and retrieval for reasoning. 
 - Feel free to visit my [website](https://howard-yen.github.io/), where you can find a copy of my CV!
 
 <!--
